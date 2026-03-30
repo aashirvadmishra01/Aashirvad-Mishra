@@ -12,7 +12,7 @@
 ## 🛠️ My Tech Stack
 - **Language:** Python
 - **Tools:** GitHub, Google Workspace, Kaggle, HackerRank
-- **Interests:** Machine Learning, Data Science, and Cybersecurity
+- **Interests:** Machine Learning, Data Science,and Cybersecurity
 
 ---
 
